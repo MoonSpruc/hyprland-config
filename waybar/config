@@ -3,14 +3,13 @@
   "position": "top",
   "margin-bottom": 0,
   "modules-left": [
-    "clock",
     "custom/separator",
     "hyprland/workspaces",
     "custom/separator",
     "tray"
   ],
   "modules-center": [
-    "hyprland/window"
+    "clock"
   ],
   "modules-right": [
     "temperature",
