@@ -1,9 +1,9 @@
 window {
-   background-color: #1a1b26;
+   background-color: #171717;
 }
 
 * {
-   font-family: "Jetbrains Mono";
+   font-family: "Cascadia Code";
    color: #fff;
 }
 
@@ -12,8 +12,7 @@ window {
 }
 
 #input {
-   background-color: #1a1b26;
-   color: #c0caf5;
+   background-color: #262626;
    outline: none;
    box-shadow: none;
    border: 0;
@@ -36,10 +35,6 @@ window {
 }
 
 #entry:selected {
-   background-color: #c0caf5;
+   background-color: #262626;
    outline: none;
-}
-
-#text:selected {
-   color: #1a1b26;
 }
